@@ -8,4 +8,8 @@ public class Sample {
 
 		return 2;
 	}
+
+	public int method2(int param) {
+		return 2;
+	}
 }
